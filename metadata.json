@@ -1,0 +1,7 @@
+{
+  "name": "AI Interview Trainer",
+  "description": "An AI-powered mock interviewer to help you practice job interviews in English, Malayalam, Hindi, Tamil, Telugu, and Kannada. Get instant feedback and improve your communication skills.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
